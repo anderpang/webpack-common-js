@@ -17,12 +17,19 @@
 ## 相关文件内容
 - webpack.config.js （暂空，后面补填）
 - index.html
+
 ![](./images/04.jpg)
+
 - common-1.js 一个简单常用的选择器
+
 ![](./images/05.jpg)
+
 - common-2.js 一个设样式的函数
+
 ![](./images/06.jpg)
+
 - entry.js 入口文件
+
 ![](./images/07.jpg)
 
 效果：hello world，两倍红字！
